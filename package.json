@@ -1,0 +1,8 @@
+{
+  "name": "cnipms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Controlled Narcotics Inventory & Prescription Management System",
+  "scripts": {"dev": "vercel dev"},
+  "engines": {"node": ">=18"}
+}
